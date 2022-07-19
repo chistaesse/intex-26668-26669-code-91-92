@@ -59,6 +59,10 @@ Le coefficient d'amplification passe donc à environ 48 (soit 20%)
 
 Premier essai concluant, je n'ai pas eu besoin de retoucher cette valeur. Plus aucune erreur 91 depuis 7 jours !
 
+---
+
+Retour après quelques temps : mon taux de sel ayant changé (j'ai vidé une partie de la piscine), je n'ai pas voulu modifier la résistance placée en parallèle, j'ai donc remplacé celle-ci par un potentiomètre de 10k qui me permet d'ajuster ce coefficient rapidement.
+
 ## Erreur inverse, code 92, trop de sel
 
 De même, vous pouvez aussi rencontrer le problème inverse, la piscine a un bon taux de sel, les cellules sont détartrées et pourtant le système indique trop de sel. Dans ce cas il faudra baisser le coefficient d'amplification. Là, il sera plus simple de souder en parallèle une résistance sur R20 pour faire baisser sa valeur.
